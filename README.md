@@ -1,5 +1,3 @@
--# README for My Personal Profile
-
 ## Overview
 
 Welcome to my personal profile webpage! I’m Luke Manyamazi, an IT professional passionate about technology, programming, and continuous learning. This webpage serves as a showcase of my background, skills, and achievements, along with my journey in the tech world.
@@ -53,8 +51,5 @@ This project is open-source and available under the MIT License. You are free to
 
 I’d love to connect! Feel free to reach out through the contact button on the webpage or directly via WhatsApp:
 
-- **WhatsApp**: [Contact Me](#)
+- **WhatsApp**: [Contact Me]
 
----
-
-Thank you for visiting my profile! I hope you enjoy learning about my journey in the tech world.
