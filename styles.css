@@ -13,15 +13,16 @@ body {
     height: 10rem;    
 }
 
-#button {
-    font-size: 16px;
-    padding: 5px, auto;
-    border: none;
-    text-align: center;
-    margin: 4px 2px;
-    cursor: pointer;
-    display: inline-block;
+.button {
+    position: absolute;
+    top: 50%;
     background-color: lightgreen;
+    color: #fff;
+    border: none;
+    border-radius: 10px;
+    padding: 15px;
+    min-height: 30px;
+    min-width: 120px;
 }
 
 a {
