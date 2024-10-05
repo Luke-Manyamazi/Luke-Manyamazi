@@ -15,14 +15,20 @@ body {
 
 .button {
     position: absolute;
-    top: 50%;
+    top: 80%;
     background-color: lightgreen;
-    color: #fff;
+    color: #000;
     border: none;
     border-radius: 10px;
     padding: 15px;
     min-height: 30px;
     min-width: 120px;
+    font-weight: bold;
+}
+
+.button:hover {
+    background-color: aqua;
+    transition: 0.7s;
 }
 
 a {
