@@ -36,7 +36,7 @@ Welcome to my personal profile webpage! I’m Luke Manyamazi, an IT professional
    Launch `index.html` in your web browser to explore my profile.
    
 4. **Open Profile Page**:
-   Alternatively click this link to view my profile: https://luke-manyamazi.netlify.app/
+   Alternatively click this link to view my profile: lukemanyamazi-portfolio.netlify.app
    
 3. **Customizing**:
    - Feel free to update the content to reflect any changes in my journey.
