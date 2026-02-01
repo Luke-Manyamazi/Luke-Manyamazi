@@ -75,11 +75,5 @@ I’m always open to discussion, collaboration, or mentoring.
 
 ---
 
-## 📈 GitHub Stats
-
-![Luke’s GitHub Stats](https://github-readme-stats.vercel.app/api?username=Luke-Manyamazi&show_icons=true&theme=radical)
-
----
-
 > Building in public — one commit at a time 🚀  
 
