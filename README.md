@@ -1,11 +1,11 @@
-# 👋 Hi there, I’m **Luke Manyamazi**
+# Hi there, I’m **Luke Manyamazi**
 
-🎯 **Software Engineer | Full Stack Developer-in-Training | IT Support Technician**  
-💡 I’m passionate about solving real problems with code and building projects that matter.
+**Software Engineer | Full Stack Developer-in-Training | IT Support Technician**  
+I’m passionate about solving real problems with code and building projects that matter.
 
 ---
 
-## 🚀 About Me
+## About Me
 
 I’m currently building skills in full-stack development while working as an IT Support Technician and studying Computer Engineering. I love learning new technologies and sharing my progress with the dev community.  
 
@@ -13,7 +13,7 @@ I focus on creating practical, real-world solutions — from web apps to utiliti
 
 ---
 
-## 🛠️ Tech Skills
+## Tech Skills
 
 **Languages:** JavaScript, Python, C/C#/C++ 
 **Frameworks & Tools:** React, Node.js, Express, Django, Git, GitHub  
@@ -23,7 +23,7 @@ I focus on creating practical, real-world solutions — from web apps to utiliti
 
 ---
 
-## 📂 Featured Projects
+## Featured Projects
 
 Here are some of the projects I’ve built or contributed to — each tells a part of my learning journey:
 
