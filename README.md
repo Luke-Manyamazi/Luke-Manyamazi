@@ -45,7 +45,7 @@ Here are some of the projects I’ve built or contributed to — each tells a pa
 
 ### 🌐 Portfolio
 - **Luke Portfolio**
-- 🔗 Portfolio: https://lukemanyamazi-portfolio.netlify.app  
+- 🔗 Portfolio: https://luke-manyamazi.github.io/ 
 
 ---
 
