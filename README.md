@@ -1,225 +1,243 @@
-# Hi, I'm **Luke Manyamazi** 
+# Hi, I'm **Luke Manyamazi** 👋
 
-**Software Engineer | Full-Stack Developer | Cloud & AI Enthusiast**
+**Software Developer | Full-Stack | Cloud & AI | Building in Public**
 
-I'm a Software Engineering student and developer focused on building practical, real-world software that solves meaningful problems.
+I build practical software that solves real-world problems — from business automation and operational systems to AI-powered applications and cloud-based platforms.
 
-I enjoy taking an idea from **concept → architecture → development → deployment**, with a particular interest in full-stack applications, cloud technologies, AI, and systems that work in real-world environments.
+My approach is simple:
 
----
+**Understand the problem → design the solution → build it → deploy it → learn from it → improve it.**
 
-## About Me
-
-I'm currently pursuing a **BSc Honours in Software Engineering** while building and deploying real-world software projects.
-
-My background in **IT support and software engineering** has given me a practical understanding of both the people using technology and the systems behind it.
-
-I particularly enjoy building applications that solve problems in areas such as:
-
-- 🌍 Conservation & wildlife management
-- 🌾 Agriculture & rural communities
-- 💼 Business automation
-- 📊 Data & operational dashboards
-- 🤖 AI-powered applications
-- ☁️ Cloud-based systems
-
-I'm especially interested in building technology that is useful in **Zimbabwe and across Africa**.
+I work primarily with **TypeScript, JavaScript, Python, React, Node.js, PostgreSQL, Supabase and AWS**, and I enjoy taking projects from an initial idea through to a working production system.
 
 ---
 
-## 🛠️ Tech Stack
+## 👨🏾‍💻 About Me
+
+I'm a Software Developer with a background in **production IT systems, application support and software engineering**.
+
+My experience working with real business systems has taught me that good software isn't just about writing code. It needs to be reliable, usable, secure, maintainable and capable of solving the actual problem people have.
+
+I'm particularly interested in:
+
+* 🤖 **AI-powered applications & automation**
+* 💼 **Business software & workflow automation**
+* 🌾 **Agriculture & rural technology**
+* 🌍 **Conservation & wildlife technology**
+* 📊 **Operational dashboards & data systems**
+* ☁️ **Cloud-native applications**
+* 📱 **Mobile & offline-first applications**
+* 🌍 **Technology built for African markets**
+
+I enjoy working on problems where software can replace manual processes, connect disconnected systems, or make information easier to access and act on.
+
+---
+
+## 🛠️ Technology
 
 ### Languages
 
-![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat&logo=typescript&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black)
-![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
-![SQL](https://img.shields.io/badge/SQL-336791?style=flat&logo=postgresql&logoColor=white)
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat\&logo=typescript\&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat\&logo=javascript\&logoColor=black)
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat\&logo=python\&logoColor=white)
+![SQL](https://img.shields.io/badge/SQL-336791?style=flat\&logo=postgresql\&logoColor=white)
 
 ### Frontend
 
-- React
-- Next.js
-- Vite
-- TypeScript
-- Tailwind CSS
-- Framer Motion
-- React Native / Expo
+* React
+* Next.js
+* Vite
+* TypeScript
+* Tailwind CSS
+* Framer Motion
+* React Native
+* Expo
 
-### Backend & Databases
+### Backend & Data
 
-- Node.js
-- Express
-- Supabase
-- PostgreSQL
-- Firebase / Firestore
-- REST APIs
+* Node.js
+* Express
+* Python
+* REST APIs
+* PostgreSQL
+* Supabase
+* Firebase / Firestore
 
 ### Cloud & DevOps
 
-- AWS
-- Vercel
-- Netlify
-- GitHub Actions
-- Docker
-- Coolify
+* AWS
+* Vercel
+* Netlify
+* GitHub Actions
+* Docker
+* Coolify
 
-### Other
+### Engineering
 
-- Git & GitHub
-- API integration
-- Authentication & authorization
-- RLS / database security
-- Offline-capable applications
-- Responsive UI/UX
-- AI-assisted development
-
----
-
-## Featured Projects
-
-### KVET TroopTrack
-
-A real-world **baboon monitoring and conservation platform** built for operational use.
-
-The system includes:
-
-- Admin dashboard
-- BIO Officer Android application
-- Supabase backend
-- Authentication & role-based access
-- GPS/location tracking
-- Wildlife incident reporting
-- Media capture
-- Offline-capable workflows
-- Operational data management
-
-**Stack:** Next.js, TypeScript, React Native, Expo, Supabase, PostgreSQL
+* Git & GitHub
+* API integration
+* Authentication & authorization
+* Row Level Security (RLS)
+* Database design
+* Offline-first applications
+* Responsive UI/UX
+* Testing & debugging
+* AI-assisted development
 
 ---
 
-### Smart Farm-Produce Market System
+# 🚀 Featured Projects
 
-A software platform designed around agricultural producers and buyers in **Masvingo Province, Zimbabwe**.
+## 🐒 KVET TroopTrack
+
+A real-world **baboon monitoring and conservation platform** designed for operational use.
+
+The platform combines web administration with a mobile workflow for field officers.
+
+### Key capabilities
+
+* Admin dashboard
+* BIO Officer Android application
+* Role-based authentication
+* GPS/location tracking
+* Wildlife incident reporting
+* Photo and media capture
+* Offline-capable workflows
+* Operational data management
+* Supabase backend
+
+**Stack:** Next.js · TypeScript · React Native · Expo · Supabase · PostgreSQL
+
+---
+
+## 🌾 Smart Farm Produce Market
+
+A platform exploring how software can improve agricultural market access for producers and buyers in **Masvingo Province, Zimbabwe**.
 
 The project explores:
 
-- Produce listings
-- Buyer interactions
-- Transport coordination
-- Weather information
-- Soil and environmental data
-- Agricultural market accessibility
+* Produce listings
+* Buyer interactions
+* Transport coordination
+* Weather information
+* Soil and environmental data
+* Agricultural market accessibility
 
-**Stack:** React, Node.js, PostgreSQL, APIs
-
----
-
-### RentIT Masvingo
-
-A property rental platform concept designed to digitise the way landlords, agents and tenants discover and manage rental properties.
-
-The platform is designed around:
-
-- Property listings
-- Verified users
-- Rental terms
-- Viewing appointments
-- Landlord and agency accounts
-- SaaS packages
+**Stack:** React · Node.js · PostgreSQL · APIs
 
 ---
 
-### Pop & Chill
+## 🏠 RentIT Masvingo
 
-A movie discovery application using the TMDB API.
+A property technology platform concept designed to improve how landlords, agents and tenants discover and manage rental properties.
 
-**Stack:** React, Vite, Tailwind CSS, TMDB API
+The system explores:
 
----
-
-### Fitter Dashboard
-
-A dashboard application focused on displaying and managing operational data through a modern web interface.
-
----
-
-## 🌐 Portfolio
-
-Explore my projects and development journey:
-
-**Portfolio:**  
-https://luke-manyamazi.github.io/
-
-**Personal Website:**  
-https://lukemanyamazi.tech/
+* Property listings
+* User verification
+* Rental terms
+* Viewing appointments
+* Landlord and agency accounts
+* SaaS subscription models
 
 ---
 
-## Education & Learning
+## 🎬 Pop & Chill
 
-🎓 **BSc Honours in Software Engineering**  
-Zimbabwe Open University
+A movie discovery application built around the TMDB API.
 
-I've also completed learning through:
-
-- CodeYourFuture
-- Harvard CS50P
-- freeCodeCamp
-- AWS training
-- Coursera
+**Stack:** React · Vite · Tailwind CSS · TMDB API
 
 ---
 
-## What I'm Currently Exploring
+## 📊 Fitter Dashboard
 
-- Full-stack application architecture
-- Cloud-native development
-- AI-assisted software development
-- AI agents and automation
-- Secure authentication and authorization
-- PostgreSQL & Supabase
-- Mobile application development
-- Offline-first applications
-- Software engineering best practices
-- Building technology for African markets
+An operational dashboard designed to turn business data into a simple, actionable interface for day-to-day users.
 
 ---
 
-## 📈 Building in Public
+# 🌱 Building in Public
 
-I believe the best way to learn software engineering is to **build real things**.
+I believe one of the best ways to become a better software engineer is to **build real things**.
 
-My GitHub contains experiments, coursework, client projects, production applications and ideas that I'm actively turning into working software.
+My repositories include production applications, experiments, client projects, learning projects and ideas that I'm turning into working software.
+
+I'm particularly interested in documenting:
+
+* What I'm building
+* Why I'm building it
+* Technical decisions
+* Problems I encounter
+* What breaks
+* What I learn
+* What I would do differently
+
+Currently, I'm exploring **AI-assisted development, business automation, cloud applications and software products for African markets**.
 
 > **Build. Learn. Deploy. Improve. Repeat.**
 
 ---
 
-## 🤝 Let's Connect
+# 🎓 Education & Learning
 
-I'm always interested in:
+### BSc Honours in Software Engineering
 
-- Open-source collaboration
-- Software engineering opportunities
-- Interesting technical problems
-- AI & cloud projects
-- Developer communities
-- Building technology for Africa
+**Zimbabwe Open University**
 
-📍 **Zimbabwe**
+Additional learning and training:
 
-🌐 **Portfolio:**  
-https://luke-manyamazi.github.io/
-
-🌐 **Website:**  
-https://lukemanyamazi.tech/
-
-🔗 **Linktree:**  
-https://linktr.ee/isirluke
+* **CodeYourFuture** — Full-Stack Software Development
+* **Harvard CS50P** — Introduction to Programming with Python
+* **freeCodeCamp** — Web Development
+* **AWS** — Cloud training
+* **Coursera** — Software & technology courses
 
 ---
 
-⭐ If you find one of my projects interesting, feel free to explore the repository and follow along with the journey.
-```
+# 🔭 What I'm Currently Exploring
+
+* AI-powered applications
+* AI agents and automation
+* Full-stack application architecture
+* Backend and API development
+* Cloud-native systems
+* PostgreSQL & Supabase
+* Secure authentication and authorization
+* Mobile application development
+* Offline-first applications
+* Software engineering best practices
+* Business process automation
+* Building practical technology for African markets
+
+---
+
+# 🌐 Find Me Online
+
+**Portfolio:**
+https://lukemanyamazi.tech/
+
+**LinkedIn:**
+https://www.linkedin.com/in/luke-manyamazi-5632b9331/
+
+**Camluk Technologies:**
+https://camluk.co.za/
+
+---
+
+# 🤝 Let's Connect
+
+I'm interested in:
+
+* Software engineering opportunities
+* Remote development work
+* Open-source collaboration
+* AI & cloud projects
+* Interesting technical problems
+* Developer communities
+* Business automation
+* Technology for African markets
+
+📍 **Zimbabwe | Working remotely**
+
+⭐ If you find a project interesting, explore the repository, open an issue, contribute, or follow along with the journey.
 
