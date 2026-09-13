@@ -123,7 +123,7 @@ Additional learning:
 
 **Portfolio:** https://lukemanyamazi.tech/
 
-**LinkedIn:** https://www.linkedin.com/in/luke-manyamazi-5632b9331/
+**LinkedIn:** https://www.linkedin.com/in/lukemanyamazi/
 
 **Camluk Technologies:** https://camluk.co.za/
 
